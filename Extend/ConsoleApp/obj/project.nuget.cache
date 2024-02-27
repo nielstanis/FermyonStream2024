@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mBqjIWwXR/RdXt4HwlfIEf+ItQaj1jxsbmOf7DgIk9XsMVRXVdicEun5YwDfxPkQjFxgsPhWtxhMs9P7AQZ3ww==",
+  "success": true,
+  "projectFilePath": "/Users/nelson/github/fermyonstream2024/Extend/ConsoleApp/ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/nelson/.nuget/packages/wasmtime/17.0.0/wasmtime.17.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "snnyTZEl+q62EkEL+NWAskC7kR4uF7j4CicLlic/kErD4zjPAJw5uAHNhQWK3MidPlzXO/OjhdXSQgCn+E5BAA==",
+  "success": true,
+  "projectFilePath": "/Users/nelson/github/fermyonstream2024/ConsoleAppWasi/ConsoleAppWasi.csproj",
+  "expectedPackageFiles": [
+    "/Users/nelson/.nuget/packages/microsoft.net.illink.tasks/8.0.0/microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "/Users/nelson/.nuget/packages/microsoft.netcore.app.runtime.mono.osx-arm64/8.0.1/microsoft.netcore.app.runtime.mono.osx-arm64.8.0.1.nupkg.sha512",
+    "/Users/nelson/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-arm64/8.0.0/microsoft.aspnetcore.app.runtime.osx-arm64.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
